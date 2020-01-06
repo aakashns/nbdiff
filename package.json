@@ -1,0 +1,19 @@
+{
+  "name": "nbdiff",
+  "version": "0.0.1",
+  "description": "Utility classes for diffing Jupyter notebooks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashns/nbdiff.git"
+  },
+  "author": "",
+  "license": "https://github.com/aakashns/nbdiff/blob/master/LICENSE",
+  "bugs": {
+    "url": "https://github.com/aakashns/nbdiff/issues"
+  },
+  "homepage": "https://github.com/aakashns/nbdiff#readme"
+}
